@@ -1,11 +1,11 @@
 # BetterDiscordPlugins
 #### Info
-All of these plugins are developed by me (Lighty), unless otherwise stated.
-If you require support for any of these plugins, join my Discord server.
+All of these plugins are developed by Lighty, unless otherwise stated.
+If you require support for any of these plugins, join 1Lighty's Discord server.
 https://discord.gg/NYvWdN5
-All of these plugins are available for easy downloading on my website.
+All of these plugins are available for easy downloading on 1Lighty's website.
 https://1lighty.github.io/BetterDiscordStuff/
-If you like these plugins, consider donating!
+If you like these plugins, consider donating to 1Lighty!
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L01A2WY) [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.me/lighty13)
 ## [BetterImageViewer](https://github.com/1Lighty/BetterDiscordPlugins/tree/master/Plugins/BetterImageViewer "BetterImageViewer")
